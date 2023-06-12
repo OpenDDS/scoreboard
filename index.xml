@@ -1,0 +1,14 @@
+<intropage>
+  <preamble>
+    <div style="font: 20pt Verdana; color: green;"><a href="https://opendds.org">OpenDDS Foundation</a> Scoreboard</div>
+
+    <ul>
+      <li><a href="dds.html">DDS Scoreboard</a></li>
+    </ul>
+
+    <p>
+      The configuration for this scoreboard is stored at <a href="https://github.com/OpenDDS/scoreboard">https://github.com/OpenDDS/scoreboard</a>.
+    </p>
+
+  </preamble>
+</intropage>
