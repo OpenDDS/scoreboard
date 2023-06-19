@@ -21,7 +21,7 @@
       <name>Remedy_Fedora_Versioned</name>
       <url>https://download.remedy.nl/buildlogs/fc_opendds_versioned/</url>
       <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
-  </build>  
+    </build>  
     
   </group>
 </scoreboard>
