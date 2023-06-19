@@ -4,8 +4,8 @@
     <div style="font: 20pt Verdana; color: green;">DDS Build Scoreboard</div>
     <br>
       <div style="font: bold 14pt verdana;">
-        <a style="background-color: green; color: white; padding: 5px 5px;" href="oci-dds-test_spread.html">Test Matrix</a>
-        <a style="background-color: green; color: white; padding: 5px 5px;" href="oci-dds.matrix.html">New Matrix</a>
+        <a style="background-color: green; color: white; padding: 5px 5px;" href="dds-test_spread.html">Test Matrix</a>
+        <a style="background-color: green; color: white; padding: 5px 5px;" href="dds.matrix.html">New Matrix</a>
       </div>
       <p>Also see <a href="http://www.dre.vanderbilt.edu/scoreboard/dds.html">DDS Builds at Vanderbilt (DOC Group)</a></p>
   </preamble>
