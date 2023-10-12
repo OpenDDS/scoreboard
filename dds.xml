@@ -9,17 +9,21 @@
   </preamble>
 
   <group>
-    <name>DOC</name>
+    <name>ACE7</name>
     <build>
       <name>Remedy_RHEL80_Versioned</name>
       <url>https://download.remedy.nl/buildlogs/rhel80_opendds_versioned</url>
-      <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
+      <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
       <name>Remedy_Fedora_Versioned</name>
       <url>https://download.remedy.nl/buildlogs/fc_opendds_versioned/</url>
-      <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
+      <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>  
-    
+    <build>
+      <name>OCI_Ubuntu_22_04_GCC13</name>
+      <url>https://storage.cloud.google.com/oci-scoreboard/OpenDDS_ACE7_Ubuntu_22_04_GCC13_x64_Debug</url>
+      <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
+    </build>
   </group>
 </scoreboard>
