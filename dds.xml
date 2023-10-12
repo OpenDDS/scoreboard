@@ -22,7 +22,7 @@
     </build>  
     <build>
       <name>OCI_Ubuntu_22_04_GCC13</name>
-      <url>https://storage.cloud.google.com/oci-scoreboard/OpenDDS_ACE7_Ubuntu_22_04_GCC13_x64_Debug</url>
+      <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE7_Ubuntu_22_04_GCC13_x64_Debug</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
   </group>
