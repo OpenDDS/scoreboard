@@ -9,7 +9,7 @@
   </preamble>
 
   <group>
-    <name>ACE7</name>
+    <name>ACE8</name>
     <build>
       <name>Remedy_RHEL80_Versioned</name>
       <url>https://download.remedy.nl/buildlogs/rhel80_opendds_versioned</url>
@@ -22,14 +22,25 @@
     </build>  
     <build>
       <name>OCI_Ubuntu_22_04_GCC14</name>
-      <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE7_Ubuntu_22_04_GCC14_x64_Debug</url>
+      <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE8_Ubuntu_22_04_GCC14_x64_Debug</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
       <name>OCI_Ubuntu_22_04_Clang17</name>
-      <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE7_Ubuntu_22_04_Clang17_x64_Debug</url>
+      <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE8_Ubuntu_22_04_Clang17_x64_Debug</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
+  </group>
+  <group>
+    <name>ACE7</name>
+    <build>
+      <name>OpenDDS_GHA_test_u20_ace7_j_qt_ws_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/test_u20_ace7_j_qt_ws_sec</url>
+      <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
+    </build>
+  </group>
+  <group>
+    <name>ACE6</name>
     <build>
       <name>OpenDDS_GHA_cmake_m13_sec</name>
       <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/cmake_m13_sec</url>
@@ -213,11 +224,6 @@
     <build>
       <name>OpenDDS_GHA_test_m12_o1d0_sec</name>
       <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/test_m12_o1d0_sec</url>
-      <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
-    </build>
-    <build>
-      <name>OpenDDS_GHA_test_u20_ace7_j_qt_ws_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/test_u20_ace7_j_qt_ws_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
