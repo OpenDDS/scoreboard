@@ -9,7 +9,7 @@
   </preamble>
 
   <group>
-    <name>ACE8</name>
+    <name>ACE master branch</name>
     <build>
       <name>Remedy_RHEL80_Versioned</name>
       <url>https://download.remedy.nl/buildlogs/rhel80_opendds_versioned</url>
@@ -30,17 +30,14 @@
       <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE8_Ubuntu_22_04_Clang17_x64_Debug</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
-  </group>
-  <group>
-    <name>ACE7</name>
     <build>
-      <name>OpenDDS_GHA_test_u20_ace7_j_qt_ws_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/test_u20_ace7_j_qt_ws_sec</url>
+      <name>OpenDDS_GHA_test_u20_acem_j_qt_ws_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/test_u20_acem_j_qt_ws_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
   </group>
   <group>
-    <name>ACE6</name>
+    <name>ACE 6</name>
     <build>
       <name>OpenDDS_GHA_cmake_m13_sec</name>
       <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/cmake_m13_sec</url>
