@@ -1,9 +1,11 @@
 <intropage>
+  <prop title="OpenDDS Build Scoreboard"/>
+
   <preamble>
     <div style="font: 20pt Verdana; color: green;"><a href="https://opendds.org">OpenDDS Foundation</a> Scoreboard</div>
 
     <ul>
-      <li><a href="dds.html">DDS Scoreboard</a></li>
+      <li><a href="dds.html">OpenDDS Scoreboard</a></li>
     </ul>
 
     <p>
