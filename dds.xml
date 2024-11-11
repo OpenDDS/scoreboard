@@ -47,8 +47,8 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_m12_o1d0_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_m12_o1d0_sec</url>
+      <name>OpenDDS_GHA_cmake_m14_o1d0_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_m14_o1d0_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
@@ -57,8 +57,8 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_modeling_m12_i0_j_FM-1f</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_modeling_m12_i0_j_FM-1f</url>
+      <name>OpenDDS_GHA_cmake_modeling_m14_i0_j_FM-1f</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_modeling_m14_i0_j_FM-1f</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
@@ -217,13 +217,13 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_test_m12_i0_j_FM-1f</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_m12_i0_j_FM-1f</url>
+      <name>OpenDDS_GHA_test_m14_i0_j_FM-1f</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_m14_i0_j_FM-1f</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_test_m12_o1d0_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_m12_o1d0_sec</url>
+      <name>OpenDDS_GHA_test_m14_o1d0_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_m14_o1d0_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
