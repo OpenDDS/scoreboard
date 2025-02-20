@@ -29,8 +29,8 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_test_u20_acem_j_qt_ws_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u20_acem_j_qt_ws_sec</url>
+      <name>OpenDDS_GHA_test_u24_acem_j_qt_ws_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u24_acem_j_qt_ws_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
   </group>
@@ -57,28 +57,28 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_u20_clang10_sec_js0</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u20_clang10_sec_js0</url>
+      <name>OpenDDS_GHA_cmake_u24_clang17_sec_js0</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u24_clang17_sec_js0</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_u20_clang12_i0w1_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u20_clang12_i0w1_sec</url>
+      <name>OpenDDS_GHA_cmake_u24_clang18_i0w1_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u24_clang18_i0w1_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_u20_gcc8_i0_js0_j</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u20_gcc8_i0_js0_j</url>
+      <name>OpenDDS_GHA_cmake_u24_gcc12_i0_js0_j</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u24_gcc12_i0_js0_j</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_u20_gcc9_d0w1_cpp03</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u20_gcc9_d0w1_cpp03</url>
+      <name>OpenDDS_GHA_cmake_u24_gcc13_d0w1_cpp03</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u24_gcc13_d0w1_cpp03</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_u20_i0_xer0_js0_j17</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u20_i0_xer0_js0_j17</url>
+      <name>OpenDDS_GHA_cmake_u24_i0_xer0_js0_j17</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u24_i0_xer0_js0_j17</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
@@ -222,28 +222,28 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_test_u20_p1_asan_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u20_p1_asan_sec</url>
+      <name>OpenDDS_GHA_test_u24_p1_asan_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u24_p1_asan_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_test_u20_p1_j8_FM-1f</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u20_p1_j8_FM-1f</url>
+      <name>OpenDDS_GHA_test_u24_p1_j8_FM-1f</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u24_p1_j8_FM-1f</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_test_u20_p1_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u20_p1_sec</url>
+      <name>OpenDDS_GHA_test_u24_p1_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u24_p1_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_test_u20_p1_tsan_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u20_p1_tsan_sec</url>
+      <name>OpenDDS_GHA_test_u24_p1_tsan_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u24_p1_tsan_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_test_u20_p1_ubsan_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u20_p1_ubsan_sec</url>
+      <name>OpenDDS_GHA_test_u24_p1_ubsan_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/test_u24_p1_ubsan_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
@@ -312,8 +312,8 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_valgrind_u20_p1_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/valgrind_u20_p1_sec</url>
+      <name>OpenDDS_GHA_valgrind_u24_p1_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/valgrind_u24_p1_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
   </group>
