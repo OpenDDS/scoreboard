@@ -24,8 +24,8 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OCI_Ubuntu_22_04_Clang17</name>
-      <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE8_Ubuntu_22_04_Clang17_x64_Debug</url>
+      <name>OCI_Ubuntu_22_04_Clang19</name>
+      <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE8_Ubuntu_22_04_Clang19_x64_Debug</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
