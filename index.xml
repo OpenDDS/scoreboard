@@ -8,6 +8,10 @@
       <li><a href="dds.html">OpenDDS Scoreboard</a></li>
     </ul>
 
+    <ul>
+      <li><a href="dds4.html">OpenDDS4 Scoreboard</a></li>
+    </ul>
+
     <p>
       The configuration for this scoreboard is stored at <a href="https://github.com/OpenDDS/scoreboard">https://github.com/OpenDDS/scoreboard</a>.
     </p>
