@@ -14,11 +14,6 @@
   <group>
     <name>ACE master branch</name>
     <build>
-      <name>Remedy_RHEL80_Versioned</name>
-      <url>https://download.remedy.nl/buildlogs/rhel80_opendds_versioned</url>
-      <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
-    </build>
-    <build>
       <name>OCI_Ubuntu_22_04_GCC14</name>
       <url>https://storage.googleapis.com/oci-scoreboard/OpenDDS_ACE8_Ubuntu_22_04_GCC14_x64_Debug</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
