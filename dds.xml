@@ -87,23 +87,23 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_w19_p1_stat_js0</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_w19_p1_stat_js0</url>
+      <name>OpenDDS_GHA_cmake_w25_p1_stat_js0</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_w25_p1_stat_js0</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_w19_re_j_ws_FM-1f</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_w19_re_j_ws_FM-1f</url>
+      <name>OpenDDS_GHA_cmake_w25_re_j_ws_FM-1f</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_w25_re_j_ws_FM-1f</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_w19_re_o1p1_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_w19_re_o1p1_sec</url>
+      <name>OpenDDS_GHA_cmake_w25_re_o1p1_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_w25_re_o1p1_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_w19_re_p1_stat_FM-08</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_w19_re_p1_stat_FM-08</url>
+      <name>OpenDDS_GHA_cmake_w25_re_p1_stat_FM-08</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_w25_re_p1_stat_FM-08</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
@@ -122,13 +122,13 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_compiler2_w19_p1_stat_js0</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler2_w19_p1_stat_js0</url>
+      <name>OpenDDS_GHA_compiler2_w25_p1_stat_js0</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler2_w25_p1_stat_js0</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_compiler2_w19_re_p1_stat_FM-08</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler2_w19_re_p1_stat_FM-08</url>
+      <name>OpenDDS_GHA_compiler2_w25_re_p1_stat_FM-08</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler2_w25_re_p1_stat_FM-08</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
@@ -137,23 +137,23 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_compiler_w19_p1_stat_js0</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler_w19_p1_stat_js0</url>
+      <name>OpenDDS_GHA_compiler_w25_p1_stat_js0</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler_w25_p1_stat_js0</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_compiler_w19_re_j_ws_FM-1f</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler_w19_re_j_ws_FM-1f</url>
+      <name>OpenDDS_GHA_compiler_w25_re_j_ws_FM-1f</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler_w25_re_j_ws_FM-1f</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_compiler_w19_re_o1p1_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler_w19_re_o1p1_sec</url>
+      <name>OpenDDS_GHA_compiler_w25_re_o1p1_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler_w25_re_o1p1_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_compiler_w19_re_p1_stat_FM-08</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler_w19_re_p1_stat_FM-08</url>
+      <name>OpenDDS_GHA_compiler_w25_re_p1_stat_FM-08</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/compiler_w25_re_p1_stat_FM-08</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
@@ -167,23 +167,23 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_messenger_w19_p1_stat_js0</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/messenger_w19_p1_stat_js0</url>
+      <name>OpenDDS_GHA_messenger_w25_p1_stat_js0</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/messenger_w25_p1_stat_js0</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_messenger_w19_re_j_ws_FM-1f</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/messenger_w19_re_j_ws_FM-1f</url>
+      <name>OpenDDS_GHA_messenger_w25_re_j_ws_FM-1f</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/messenger_w25_re_j_ws_FM-1f</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_messenger_w19_re_o1p1_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/messenger_w19_re_o1p1_sec</url>
+      <name>OpenDDS_GHA_messenger_w25_re_o1p1_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/messenger_w25_re_o1p1_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_messenger_w19_re_p1_stat_FM-08</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/messenger_w19_re_p1_stat_FM-08</url>
+      <name>OpenDDS_GHA_messenger_w25_re_p1_stat_FM-08</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/messenger_w25_re_p1_stat_FM-08</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
@@ -282,23 +282,23 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_unit_w19_p1_stat_js0</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/unit_w19_p1_stat_js0</url>
+      <name>OpenDDS_GHA_unit_w25_p1_stat_js0</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/unit_w25_p1_stat_js0</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_unit_w19_re_j_ws_FM-1f</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/unit_w19_re_j_ws_FM-1f</url>
+      <name>OpenDDS_GHA_unit_w25_re_j_ws_FM-1f</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/unit_w25_re_j_ws_FM-1f</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_unit_w19_re_o1p1_sec</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/unit_w19_re_o1p1_sec</url>
+      <name>OpenDDS_GHA_unit_w25_re_o1p1_sec</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/unit_w25_re_o1p1_sec</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_unit_w19_re_p1_stat_FM-08</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/unit_w19_re_p1_stat_FM-08</url>
+      <name>OpenDDS_GHA_unit_w25_re_p1_stat_FM-08</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/unit_w25_re_p1_stat_FM-08</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
