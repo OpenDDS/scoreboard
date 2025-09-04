@@ -52,8 +52,8 @@
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
-      <name>OpenDDS_GHA_cmake_u24_clang17_sec_js0</name>
-      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u24_clang17_sec_js0</url>
+      <name>OpenDDS_GHA_cmake_u24_clang20_sec_js0</name>
+      <url>https://storage.googleapis.com/opendds-gha-scoreboard-uploads/3/cmake_u24_clang20_sec_js0</url>
       <diffroot>https://github.com/OpenDDS/OpenDDS/commit/</diffroot>
     </build>
     <build>
